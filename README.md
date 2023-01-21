@@ -2,6 +2,7 @@
 
 The scripts in this repo take in sample data from a laboratory in the form of a .csv file and outputs a word document with all the data processed, tabulated and formatted according the customer specifications. 
 
+<!-- USAGE EXAMPLES -->
 ## Background
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
