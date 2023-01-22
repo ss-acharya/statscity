@@ -7,6 +7,8 @@ The scripts in this repo take in sample data from a laboratory in the form of a 
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
+Water, in it's raw form, has many pollutants in it. County Public Utility Districts try to keep track of all the pollutants in them by creating daily, weekly, monthly, and yearly reports. The scripts listed are created to do just that. 
+
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
